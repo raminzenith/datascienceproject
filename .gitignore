@@ -1,3 +1,5 @@
+.venv/
 venv/
 logs/
 artifacts/
+__pycache__/
